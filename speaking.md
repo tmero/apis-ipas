@@ -1,5 +1,7 @@
 # Directions to Submit a Talk to Seattle APIs and IPAs
 
+## Please click on the "Issues" tab above and submit each talk as a separate issue using the format below:
+
 **Title:** {A short title of your presentation}
 **Abstract:** {A brief description of what your presentation is about}
 **Length:** {15 min, 30 min, or 45 min}
